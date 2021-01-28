@@ -1,0 +1,8 @@
+# Binaries for programs and plugins
+main
+science_math
+*.exe
+*.exe~
+*.so
+*.dylib
+*.dll
