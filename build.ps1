@@ -1,3 +1,3 @@
 Clear-Host
 
-v run .\science_math.v
+v run main.v
